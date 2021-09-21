@@ -2,7 +2,7 @@
 <body>
 <br>
 <div align="center">
-        <img src="https://github.com/Ecioboy/Ecioboy/blob/main/images/2_400x400.jpeg" style="border-radius: 100%">
+        <img src="https://github.com/Ecioboy/Ecioboy/blob/main/images/2_400x400.jpeg" style="border-radius: 250%">
 <br>
                 <b><font size="12">Ecioboy</font></b><br>
                 <font size="4">Love Life,Love Oneself.</font>
