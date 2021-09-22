@@ -20,6 +20,6 @@
 
 ----
 
-<p> Hello everyone,I'm Ecioboy,Of course you can also call me that boy,Haha,Thank you for your attention. </p>
+<b><p> Hello everyone,I'm Ecioboy,Of course you can also call me that boy,Haha,Thank you for your attention. </p></b>
 
 ----
