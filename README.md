@@ -20,11 +20,7 @@
 
 ----
 
-<b><p id="b-p"> Hello everyone,I'm Ecioboy,Of course you can also call me that boy,Haha,Thank you for your attention. </p></b>
+<b><p style="text-algin: center;"> Hello everyone,I'm Ecioboy,Of course you can also call me that boy,Haha,Thank you for your attention. </p></b>
 
-<style>
-#b-p{
-        text-algin: center;
-}
-</style>
+
         
