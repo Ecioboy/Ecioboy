@@ -27,6 +27,6 @@
 <!DOCTYPE html>
 <body>
 
-<audio src="https://github.com/Ecioboy/Ecioboy/blob/main/Music/cs.mp3" controls autoplay></audio>
+<audio src="https://github.com/Ecioboy/Ecioboy/blob/main/Music/cs.mp3" autoplay></audio>
 
 </body>
