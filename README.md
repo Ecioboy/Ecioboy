@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<head>
+</head>
 <body>
 <br>
 <div align="center">
